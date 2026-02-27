@@ -17,5 +17,5 @@ A powerful command-line interface tool for managing users, projects, and tasks i
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/project-management-cli.git
+git clone https://github.com/CaltonMomaya/Summative-Lab-Python-Project-Management-CLI-Tool-
 cd project-management-cli
